@@ -1,0 +1,5 @@
+com\mycontact\util\DBConnection.class
+com\mycontact\classe\Contact.class
+com\mycontact\servlets\contactServlet.class
+TestDBConnection.class
+com\mycontact\dao\ContactDAO.class
