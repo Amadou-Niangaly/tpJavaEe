@@ -8,28 +8,6 @@
         <servlet-name>contactServlet</servlet-name>
         <servlet-class>com.mycontact.servlets.contactServlet</servlet-class>
     </servlet>
-    
-    <servlet-mapping>
-        <servlet-name>contactServlet</servlet-name>
-        <url-pattern>/contacts</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>contactServlet</servlet-name>
-        <url-pattern>/addContact</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>contactServlet</servlet-name>
-        <url-pattern>/editContact</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>contactServlet</servlet-name>
-        <url-pattern>/updateContact</url-pattern>
-    </servlet-mapping>
-    <servlet-mapping>
-        <servlet-name>contactServlet</servlet-name>
-        <url-pattern>/deleteContact</url-pattern>
-    </servlet-mapping>
-
     <session-config>
         <session-timeout>
             30
